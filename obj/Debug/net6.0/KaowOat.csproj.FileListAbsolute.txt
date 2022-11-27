@@ -1,0 +1,15 @@
+D:\Destop\KaowOat\bin\Debug\net6.0\KaowOat.exe
+D:\Destop\KaowOat\bin\Debug\net6.0\KaowOat.deps.json
+D:\Destop\KaowOat\bin\Debug\net6.0\KaowOat.runtimeconfig.json
+D:\Destop\KaowOat\bin\Debug\net6.0\KaowOat.dll
+D:\Destop\KaowOat\bin\Debug\net6.0\KaowOat.pdb
+D:\Destop\KaowOat\obj\Debug\net6.0\KaowOat.csproj.AssemblyReference.cache
+D:\Destop\KaowOat\obj\Debug\net6.0\KaowOat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Destop\KaowOat\obj\Debug\net6.0\KaowOat.AssemblyInfoInputs.cache
+D:\Destop\KaowOat\obj\Debug\net6.0\KaowOat.AssemblyInfo.cs
+D:\Destop\KaowOat\obj\Debug\net6.0\KaowOat.csproj.CoreCompileInputs.cache
+D:\Destop\KaowOat\obj\Debug\net6.0\KaowOat.dll
+D:\Destop\KaowOat\obj\Debug\net6.0\refint\KaowOat.dll
+D:\Destop\KaowOat\obj\Debug\net6.0\KaowOat.pdb
+D:\Destop\KaowOat\obj\Debug\net6.0\KaowOat.genruntimeconfig.cache
+D:\Destop\KaowOat\obj\Debug\net6.0\ref\KaowOat.dll
